@@ -1,0 +1,5 @@
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SlnSistemaEscuela\LibreriaEscuela\bin\Debug\LibreriaEscuela.dll
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SlnSistemaEscuela\LibreriaEscuela\bin\Debug\LibreriaEscuela.pdb
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SlnSistemaEscuela\LibreriaEscuela\obj\Debug\LibreriaEscuela.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SlnSistemaEscuela\LibreriaEscuela\obj\Debug\LibreriaEscuela.dll
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SlnSistemaEscuela\LibreriaEscuela\obj\Debug\LibreriaEscuela.pdb

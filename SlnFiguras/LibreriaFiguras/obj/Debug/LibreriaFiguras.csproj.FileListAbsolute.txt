@@ -1,0 +1,6 @@
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SlnFiguras\LibreriaFiguras\bin\Debug\LibreriaFiguras.dll
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SlnFiguras\LibreriaFiguras\bin\Debug\LibreriaFiguras.pdb
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SlnFiguras\LibreriaFiguras\obj\Debug\LibreriaFiguras.csproj.AssemblyReference.cache
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SlnFiguras\LibreriaFiguras\obj\Debug\LibreriaFiguras.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SlnFiguras\LibreriaFiguras\obj\Debug\LibreriaFiguras.dll
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SlnFiguras\LibreriaFiguras\obj\Debug\LibreriaFiguras.pdb

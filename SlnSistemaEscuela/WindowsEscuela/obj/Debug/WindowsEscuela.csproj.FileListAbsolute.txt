@@ -1,0 +1,12 @@
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SlnSistemaEscuela\WindowsEscuela\bin\Debug\WindowsEscuela.exe.config
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SlnSistemaEscuela\WindowsEscuela\bin\Debug\WindowsEscuela.exe
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SlnSistemaEscuela\WindowsEscuela\bin\Debug\WindowsEscuela.pdb
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SlnSistemaEscuela\WindowsEscuela\bin\Debug\LibreriaEscuela.dll
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SlnSistemaEscuela\WindowsEscuela\bin\Debug\LibreriaEscuela.pdb
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SlnSistemaEscuela\WindowsEscuela\obj\Debug\WindowsEscuela.csproj.AssemblyReference.cache
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SlnSistemaEscuela\WindowsEscuela\obj\Debug\WindowsEscuela.Properties.Resources.resources
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SlnSistemaEscuela\WindowsEscuela\obj\Debug\WindowsEscuela.csproj.GenerateResource.cache
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SlnSistemaEscuela\WindowsEscuela\obj\Debug\WindowsEscuela.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SlnSistemaEscuela\WindowsEscuela\obj\Debug\WindowsEscuela.exe
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SlnSistemaEscuela\WindowsEscuela\obj\Debug\WindowsEscuela.pdb
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SlnSistemaEscuela\WindowsEscuela\obj\Debug\WindowsEscuela.Form1.resources

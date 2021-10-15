@@ -1,0 +1,12 @@
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SlnFiguras\WindowsFiguras\bin\Debug\WindowsFiguras.exe.config
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SlnFiguras\WindowsFiguras\bin\Debug\WindowsFiguras.exe
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SlnFiguras\WindowsFiguras\bin\Debug\WindowsFiguras.pdb
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SlnFiguras\WindowsFiguras\bin\Debug\LibreriaFiguras.dll
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SlnFiguras\WindowsFiguras\bin\Debug\LibreriaFiguras.pdb
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SlnFiguras\WindowsFiguras\obj\Debug\WindowsFiguras.csproj.AssemblyReference.cache
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SlnFiguras\WindowsFiguras\obj\Debug\WindowsFiguras.Form1.resources
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SlnFiguras\WindowsFiguras\obj\Debug\WindowsFiguras.Properties.Resources.resources
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SlnFiguras\WindowsFiguras\obj\Debug\WindowsFiguras.csproj.GenerateResource.cache
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SlnFiguras\WindowsFiguras\obj\Debug\WindowsFiguras.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SlnFiguras\WindowsFiguras\obj\Debug\WindowsFiguras.exe
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SlnFiguras\WindowsFiguras\obj\Debug\WindowsFiguras.pdb

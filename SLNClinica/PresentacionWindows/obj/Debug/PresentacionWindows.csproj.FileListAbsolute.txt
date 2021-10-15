@@ -1,0 +1,12 @@
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SLNClinica\PresentacionWindows\bin\Debug\PresentacionWindows.exe.config
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SLNClinica\PresentacionWindows\bin\Debug\PresentacionWindows.exe
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SLNClinica\PresentacionWindows\bin\Debug\PresentacionWindows.pdb
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SLNClinica\PresentacionWindows\bin\Debug\LibreriaEntidades.dll
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SLNClinica\PresentacionWindows\bin\Debug\LibreriaEntidades.pdb
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SLNClinica\PresentacionWindows\obj\Debug\PresentacionWindows.csproj.AssemblyReference.cache
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SLNClinica\PresentacionWindows\obj\Debug\PresentacionWindows.Form1.resources
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SLNClinica\PresentacionWindows\obj\Debug\PresentacionWindows.Properties.Resources.resources
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SLNClinica\PresentacionWindows\obj\Debug\PresentacionWindows.csproj.GenerateResource.cache
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SLNClinica\PresentacionWindows\obj\Debug\PresentacionWindows.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SLNClinica\PresentacionWindows\obj\Debug\PresentacionWindows.exe
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 14-10\SLNClinica\PresentacionWindows\obj\Debug\PresentacionWindows.pdb
